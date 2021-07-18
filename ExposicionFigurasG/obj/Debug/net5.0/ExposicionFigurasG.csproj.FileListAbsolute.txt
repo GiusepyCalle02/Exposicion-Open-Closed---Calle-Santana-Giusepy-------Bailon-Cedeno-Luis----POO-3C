@@ -1,0 +1,16 @@
+C:\Users\CompuStore\source\repos\ExposicionFigurasG\bin\Debug\net5.0\ExposicionFigurasG.exe
+C:\Users\CompuStore\source\repos\ExposicionFigurasG\bin\Debug\net5.0\ExposicionFigurasG.deps.json
+C:\Users\CompuStore\source\repos\ExposicionFigurasG\bin\Debug\net5.0\ExposicionFigurasG.runtimeconfig.json
+C:\Users\CompuStore\source\repos\ExposicionFigurasG\bin\Debug\net5.0\ExposicionFigurasG.runtimeconfig.dev.json
+C:\Users\CompuStore\source\repos\ExposicionFigurasG\bin\Debug\net5.0\ExposicionFigurasG.dll
+C:\Users\CompuStore\source\repos\ExposicionFigurasG\bin\Debug\net5.0\ref\ExposicionFigurasG.dll
+C:\Users\CompuStore\source\repos\ExposicionFigurasG\bin\Debug\net5.0\ExposicionFigurasG.pdb
+C:\Users\CompuStore\source\repos\ExposicionFigurasG\obj\Debug\net5.0\ExposicionFigurasG.csprojAssemblyReference.cache
+C:\Users\CompuStore\source\repos\ExposicionFigurasG\obj\Debug\net5.0\ExposicionFigurasG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CompuStore\source\repos\ExposicionFigurasG\obj\Debug\net5.0\ExposicionFigurasG.AssemblyInfoInputs.cache
+C:\Users\CompuStore\source\repos\ExposicionFigurasG\obj\Debug\net5.0\ExposicionFigurasG.AssemblyInfo.cs
+C:\Users\CompuStore\source\repos\ExposicionFigurasG\obj\Debug\net5.0\ExposicionFigurasG.csproj.CoreCompileInputs.cache
+C:\Users\CompuStore\source\repos\ExposicionFigurasG\obj\Debug\net5.0\ExposicionFigurasG.dll
+C:\Users\CompuStore\source\repos\ExposicionFigurasG\obj\Debug\net5.0\ref\ExposicionFigurasG.dll
+C:\Users\CompuStore\source\repos\ExposicionFigurasG\obj\Debug\net5.0\ExposicionFigurasG.pdb
+C:\Users\CompuStore\source\repos\ExposicionFigurasG\obj\Debug\net5.0\ExposicionFigurasG.genruntimeconfig.cache
